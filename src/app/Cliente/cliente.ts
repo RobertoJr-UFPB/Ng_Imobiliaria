@@ -11,6 +11,6 @@ export class Cliente {
          private profissao: string, 
          private endereco: Endereco, 
          private tipo: TipoCliente,
-         private status:boolean) {}  
+        ) {}  
 
 }
