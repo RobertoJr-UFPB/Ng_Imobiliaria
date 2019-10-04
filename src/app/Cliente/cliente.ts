@@ -10,7 +10,7 @@ export class Cliente {
          private email: string, 
          private profissao: string, 
          private endereco: Endereco, 
-         private tipo: TipoCliente,
+         private tipo: string,
         ) {}  
 
 }
