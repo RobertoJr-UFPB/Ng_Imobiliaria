@@ -3,3 +3,10 @@
     text-decoration: none;
 
 }
+@media (min-width: 700px) {
+    #navbarSupportedContent{
+        position:absolute !important;
+        right: 1% !important;
+    }
+    
+}
